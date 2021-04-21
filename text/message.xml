@@ -4504,7 +4504,6 @@ Go on! Spin!</message>
 <color name="pink"/>Shake<color name="black"/> <emoji name="wiimote"/> to spin!</message>
      <message name="HomeZone_Kinopio004" info="(0, 0, 0, 0, 0, 255, 255)">Try <color name="pink"/>shaking<color name="black"/> the remote underneath a <color name="blue"/>star<color name="black"/> sling!</message>
      <message name="GlassyTwinsPlanetZone_Kinopio003" info="(0, 0, 0, 0, 0, 255, 255)">This is a star shard <emoji name="starbit"/>! Hold down <emoji name="button_b"/>
-and <color name="pink"/>touch<color name="black"/> it to pick it up!
 and <color name="pink"/>touch<color name="black"/> it to pick it up!</message>
      <message name="DiskGardenZone_Kinopio000" info="(0, 0, 0, 0, 0, 255, 255)"></message>
      <message name="DiskGardenZone_Kinopio001" info="(0, 0, 0, 0, 0, 255, 255)">Hey! Chase that <color name="pink"/>rabbit<color name="black"/> <emoji name="rabbit"/>!</message>
